@@ -1,0 +1,41 @@
+site_name: Curiosity's Handbook
+site_url: https://ttrpg-handbook.kalvin.live
+
+nav:
+  - Home: index.md
+  - Game Rules: game-rules.md
+  - Create a Character: create-a-character.md
+  - Races: races
+  - Classes: classes
+  - Feats: feats.md
+
+theme:
+  name: material
+  palette:
+    primary: purple
+    accent: deep purple
+    scheme: slate
+  features:
+    - content.tooltips
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
+plugins:
+  - search
+  - awesome-nav
