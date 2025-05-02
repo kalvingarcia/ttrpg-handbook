@@ -12,7 +12,7 @@ Planetouched have the naming conventions of the race which they were born into.
 ***Size.*** They are considered the same size as their base race.<br>
 ***Speed.*** Their base walking speed is the same as their base race plus 5 additional feet of movement.<br>
 ***Darkvision.*** Either bless or cursed, their planar energy allows them to see within dim and dark conditions.<br>
-***Mortal Ties.*** You gain the `Inheritable` racial feature from your base race.<br>
+***Mortal Ties.*** You gain the <span class="md-tag">Inheritable</span> racial feature from your base race.<br>
 ***Language.*** You can speak, read, and write Common and the languages of your base race. Additionally, you can speak, read, and write the language of the plane whose energy flows within you.
 
 ## Subraces

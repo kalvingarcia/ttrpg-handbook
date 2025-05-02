@@ -11,5 +11,5 @@ Having so much variety in cultures, humans have no typical names. Some even give
 ***Age.*** Humans reach adulthood in their late teens and live less than a century on average.<br>
 ***Size.*** Humans are considered medium sized creatures.<br>
 ***Speed.*** They have a base walking speed of 30 feet.<br>
-***Human Versatility.*** `Inheritable` You gain one feat and of your choice from the #feats list.<br>
+***Human Versatility.*** <span class="md-tag">Inheritable</span> You gain one feat and of your choice from the #feats list.<br>
 ***Language*** You can speak, read, and write Common, along with one other language of your choice.

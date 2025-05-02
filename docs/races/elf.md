@@ -15,7 +15,7 @@ Often, those who watched the elf grow continue to call them by their child-name.
 ***Speed.*** They have a base walking speed of 30 feet.<br>
 ***Darkvision.*** Accustomed to life twilit forests, elves have superior vision in the dark and dim.<br>
 ***Keen Senses.*** You gain proficiency in your choice of the Insight, Perception, or Survival skill.<br>
-***Fey Ancestry.*** `Inheritable` Elves have advantage on saving throws against being charmed, and magic cannot put them to sleep. Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious for 4 hours a day. This is called a "trance." This trance gives the same benefit of 8 hours of rest.<br>
+***Fey Ancestry.*** <span class="md-tag">Inheritable</span> Elves have advantage on saving throws against being charmed, and magic cannot put them to sleep. Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious for 4 hours a day. This is called a "trance." This trance gives the same benefit of 8 hours of rest.<br>
 ***Language.*** You can speak, read, and write Common and Elvish.
 
 ## Subraces

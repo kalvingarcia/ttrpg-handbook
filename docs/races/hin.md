@@ -13,7 +13,7 @@ Hin has a given name, a family name, and possibly a nickname. Family names tend 
 ***Speed.*** They have a base walking speed of 25 feet.<br>
 ***Lucky.*** When you roll a 1 on the d20 for an attack, ability check, or saving throw, you can reroll the die and must take the new roll.<br>
 ***Brave.*** You have advantage on saving throws against being frightened.<br>
-***Hin Nimbleness.*** `Inheritable` You can move through the space of any creature that is of a size larger than yours.<br>
+***Hin Nimbleness.*** <span class="md-tag">Inheritable</span> You can move through the space of any creature that is of a size larger than yours.<br>
 ***Language.*** You can speak, read, and write Common and Hin.
 
 ## Subraces

@@ -14,7 +14,7 @@ When dealing with other races with more conventional naming-systems, gnomes tend
 ***Size.*** Gnomes are considered small creatures.<br>
 ***Speed.*** They have a base walking speed of 25 feet.<br>
 ***Darkvision.*** Accustomed to life underground, gnomes have superior vision in the dark and dim.<br>
-***Gnome Cunning.*** `Inheritable` You gain proficiency in all intelligence, wisdom, and charisma saving  throws against magic.<br>
+***Gnome Cunning.*** <span class="md-tag">Inheritable</span> You gain proficiency in all intelligence, wisdom, and charisma saving  throws against magic.<br>
 ***Language.*** You can speak, read, and write Common and Gnomish.
 
 ## Subraces

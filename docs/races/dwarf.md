@@ -12,7 +12,7 @@ A dwarf doesn't *own* their name. The name is given to them by a clan elder, in 
 ***Size.*** Dwarves are considered *medium* sized creatures.<br>
 ***Speed.*** They have a base walking speed of 25 feet.<br>
 ***Darkvision.*** Accustomed to life underground, dwarves have superior vision in the dark and dim.<br>
-***Dwarven Resilience.*** `Inheritable` Dwarves have advantage on saving throws against poison, and they're resistant to poison damage.<br>
+***Dwarven Resilience.*** <span class="md-tag">Inheritable</span> Dwarves have advantage on saving throws against poison, and they're resistant to poison damage.<br>
 ***Dwarven Combat Training.*** They have proficiency with battle-axes, hand-axes, throwing hammers, and war-hammers. Their speed is not reduced by wearing heavy armor.<br>
 ***Tool Proficiency.*** Choose a proficiency with any artisan tool of your choice.<br>
 ***Stone-cunning.*** Whenever you make a *history check* related to the origin of stonework, you are considered proficient in *history* and add double your proficiency bonus to the check.<br>

@@ -12,7 +12,7 @@ Orc names have the purpose of evoking the glory and strength of their people.
 ***Size.*** Orcs are considered medium creatures.<br>
 ***Speed.*** They have a base walking speed of 30 feet.<br>
 ***Darkvision.*** Accustomed to life underground, orcs have superior vision in the dark and dim.<br>
-***Aggressive.*** `Inheritable` When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.<br>
+***Aggressive.*** <span class="md-tag">Inheritable</span> When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.<br>
 ***Adrenaline Rush.*** You can take the *dash* action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.<br>
 ***Relentless Endurance.*** When you are reduced to 0 HP, but are not killed outright, you can drop to 1 HP instead once per long rest.<br>
 ***Language.*** You can speak, read, and write Common and Orc.
