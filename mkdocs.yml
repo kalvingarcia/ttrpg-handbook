@@ -5,9 +5,17 @@ nav:
   - Home: index.md
   - Game Rules: game-rules.md
   - Create a Character: create-a-character.md
-  - Races: races
-  - Classes: classes
-  - Feats: feats.md
+  - Races:
+    - Changeling: races/changeling.md
+    - Dwarf: races/dwarf.md
+    - Elf: races/elf.md
+    - Gnome: races/gnome.md
+    - Hin: races/hin.md
+    - Human: races/human.md
+    - Interling: races/interling.md
+    - Orc: races/orc.md
+    - Planetouched: races/planetouched.md
+  - Feats: feats/index.md
 
 theme:
   name: material
@@ -16,20 +24,31 @@ theme:
     accent: deep purple
     scheme: slate
   features:
+    - navigation.top
+    - navigation.instant
+    - navigation.indexes
+    - navigation.expand
+    - navigation.path
+    - toc.follow
+    - toc.integrate
     - content.tooltips
 
 markdown_extensions:
   - admonition
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - abbr
   - attr_list
   - pymdownx.snippets
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.arithmatex:
       generic: true
 
 extra_javascript:
-  - javascripts/katex.js
+  - __scripts__/katex.js
   - https://unpkg.com/katex@0/dist/katex.min.js
   - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
@@ -38,4 +57,3 @@ extra_css:
 
 plugins:
   - search
-  - awesome-nav
