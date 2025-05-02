@@ -1,0 +1,3 @@
+# Linguist[^1] <span class="md-tag">Origin<span>
+***Language.*** You gain the ability to read, write, and speak 3 languages of your choice.<br>
+***Cunning Liguist.*** Given a writing in a language within the region, you may take 4 hours during a long rest to create a cipher to read and speak a language as long as you have your cipher for said language. After using the cipher a total of 10 times, you can read, write, and speak the language while using the cipher. After using the cipher 20 times, you no longer need it.

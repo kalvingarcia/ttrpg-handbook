@@ -1,0 +1,4 @@
+# Healer <span class="md-tag">Origin<span>
+***Able Physician.*** You have proficiency with healer's kits.<br>
+***Battle Medic.*** As an action, you can use a healer's kit to tend to a creature within 5 feet of you. That creature can expend one of its Hit Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll and $1d6$ plus your proficiency bonus. The creature can't regain hit points from this feature again until it finishes a short or long rest.
+***Healing Rerolls.*** Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic feature, you can reroll the die if it rolls a 1, and you must use the new roll.
