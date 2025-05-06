@@ -20,6 +20,10 @@ nav:
     - classes/index.md
     - Artificer:
       - classes/artificer/index.md
+      - Alchemist: classes/artificer/alchemist.md
+      - Armorer: classes/artificer/armorer.md
+      - Artillerist: classes/artificer/artillerist.md
+      - Battle Smith: classes/artificer/battle-smith.md
     - Barbarian:
       - classes/barbarian/index.md
     - Bard:
@@ -44,8 +48,8 @@ nav:
       - classes/warlock/index.md
     - Wizard:
       - classes/wizard/index.md
-  - Feats: feats/index.md
-  - Spells: spells/index.md
+  - Feats: feats.md
+  - Spells: spells.md
 
 theme:
   name: material
