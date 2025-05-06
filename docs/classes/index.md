@@ -43,7 +43,7 @@ When you gain your first level in a class other than your initial class, you gai
 
 | Class | Proficiencies Gained |
 |-------|-----------------------|
-| Artificer | |
+| Artificer | Light armor, medium armor, shields, thieves' tools, tinker's tools |
 | Barbarian | Shields, simple weapons, martial weapons |
 | Bard | Light armor, one skill of your choice, one musical instrument of your choice |
 | Cleric | Light armor, medium armor, shields |
@@ -78,7 +78,7 @@ You determine what spells you know and can prepare for each class individually, 
 Your spellcasting ability is determined by your primary class. It is the method that you learned to channel magic. Once your primary class changes, this signifies a change in how your character associates magic with themselves, and this could change your spellcasting ability. On the other hand, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
 
 #### Spell Slots
-You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, and half your levels (rounded down) in the paladin and ranger classes.
+You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, and half your levels (rounded down) in the artificer, paladin and ranger classes.
 
 If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
