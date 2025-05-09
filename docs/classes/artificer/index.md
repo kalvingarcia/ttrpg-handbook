@@ -23,7 +23,7 @@ You start with the following equipment:
 
 * Any two simple weapons of your choice,
 * A light crossbow,
-* Your choice of studded leather Armor or scale mail,
+* Your choice of studded leather armor or scale mail,
 * Thieves' tools and a dundeoneer's pack.
 
 **Artificer Table:**
@@ -35,7 +35,7 @@ You start with the following equipment:
 | 3rd   | Choose Artificer Subclass, [Right Tool for the Job](#right-tool-for-the-job) | 4 | 2 | +2 |
 | 4th   | [Obtain Feat](../../feats/index.md) | 4 | 2 | +2 |
 | 5th   | Subclass Feature | 4 | 2 | +3 |
-| 6th   | [Tool Expertise](#tool-expertise) | 6| 3 | +3 |
+| 6th   | [Tool Expertise](#tool-expertise) | 6 | 3 | +3 |
 | 7th   | [Flash of Genius](#flash-of-genius) | 6 | 3 | +3 |
 | 8th   | [Obtain Feat](../../feats/index.md) | 6 | 3 | +3 |
 | 9th   | Subclass Feature | 6 | 3 | +4 |
