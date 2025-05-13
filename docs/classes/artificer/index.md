@@ -33,22 +33,22 @@ You start with the following equipment:
 | 1st   | [Spellcasting](#spellcasting), [Magical Tinkering](#magical-tinkering) | | | +2 |
 | 2nd   | [Infuse Item](#infuse-item) | 4 | 2 | +2 |
 | 3rd   | Choose Artificer Subclass, [Right Tool for the Job](#right-tool-for-the-job) | 4 | 2 | +2 |
-| 4th   | [Obtain Feat](../../feats/index.md) | 4 | 2 | +2 |
+| 4th   | [Obtain Feat](../../feats.md) | 4 | 2 | +2 |
 | 5th   | Subclass Feature | 4 | 2 | +3 |
 | 6th   | [Tool Expertise](#tool-expertise) | 6 | 3 | +3 |
 | 7th   | [Flash of Genius](#flash-of-genius) | 6 | 3 | +3 |
-| 8th   | [Obtain Feat](../../feats/index.md) | 6 | 3 | +3 |
+| 8th   | [Obtain Feat](../../feats.md) | 6 | 3 | +3 |
 | 9th   | Subclass Feature | 6 | 3 | +4 |
 | 10th  | [Magic Item Adept](#magic-item-adept) | 8 | 4 | +4 |
 | 11th  | [Spell-Storing Item](#spell-storing-item) | 8 | 4 | +4 |
-| 12th  | [Obtain Feat](../../feats/index.md) | 8 | 4 | +4 |
+| 12th  | [Obtain Feat](../../feats.md) | 8 | 4 | +4 |
 | 13th  | | 8 | 4 | +5 |
 | 14th  | [Magic Item Savant](#magic-item-savant) | 10 | 5 | +5 |
 | 15th  | Subclass Feature | 10 | 5 | +5 |
-| 16th  | [Obtain Feat](../../feats/index.md) | 10 | 5 | +5 |
+| 16th  | [Obtain Feat](../../feats.md) | 10 | 5 | +5 |
 | 17th  | | 10 | 5 | +6 |
 | 18th  | [Magic Item Master](#magic-item-master) | 12 | 6 | +6 |
-| 19th  | [Obtain Feat](../../feats/index.md) | 12 | 6 | +6 |
+| 19th  | [Obtain Feat](../../feats.md) | 12 | 6 | +6 |
 | 20th  | [Soul of Artifice](#soul-of-artifice) | 12 | 6 | +6 |
 
 ## Subclasses

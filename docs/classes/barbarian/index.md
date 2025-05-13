@@ -3,7 +3,7 @@ These barbarians, different as they might be, are defined by their rage: unbridl
 
 For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every barbarian, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.
 
-# Primal Instict
+## Primal Instict
 People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one’s own nature was a mark of superiority. To a barbarian, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature—keen instincts, primal physicality, and ferocious rage. Barbarians are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the tundra, jungle, or grasslands where their tribes live and hunt.
 
 Barbarians come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A barbarian can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.
@@ -34,22 +34,22 @@ You start with the following equipment:
 | 1st   | [Rage](#rage), [Unarmored Defense](#unarmored-defense) | 2 | +2 | +2 |
 | 2nd   | [Reckless Attack](#reckless-attack), [Danger Sense](#danger-sense) | 2 | +2 | +2 |
 | 3rd   | Choose Barbarian Subclass, [Primal Knowledge](#primal-knowledge) | 3 | +2 | +2 |
-| 4th   | [Obtain Feat](../../feats/index.md) | 3 | +2 | +2 |
+| 4th   | [Obtain Feat](../../feats.md) | 3 | +2 | +2 |
 | 5th   | [Extra Attack](#extra-attack), [Fast Movement](#fast-movement) | 3 | +2 | +3 |
 | 6th   | Subclass Feature | 4 | +2 | +3 |
 | 7th   | [Ferocious Instinct](#ferocious-instinct), [Instinctive Pounce](#instinctive-pounce) | 4 | +2 | +3 |
-| 8th   | [Obtain Feat](../../feats/index.md) | 4 | +2 | +3 |
+| 8th   | [Obtain Feat](../../feats.md) | 4 | +2 | +3 |
 | 9th   | [Brutal Critical](#brutal-critical) | 4 | +3 | +4 |
 | 10th  | Subclass Feature | 4 | +3 | +4 |
 | 11th  | [Relentless Rage](#relentless-rage) | 4 | +3 | +4 |
-| 12th  | [Obtain Feat](../../feats/index.md) | 5 | +3 | +4 |
+| 12th  | [Obtain Feat](../../feats.md) | 5 | +3 | +4 |
 | 13th  | | 5 | +3 | +5 |
 | 14th  | Subclass Feature | 5 | +3 | +5 |
 | 15th  | [Persistent Rage](#persistent-rage) | 5 | +3 | +5 |
-| 16th  | [Obtain Feat](../../feats/index.md) | 5 | +4 | +5 |
+| 16th  | [Obtain Feat](../../feats.md) | 5 | +4 | +5 |
 | 17th  | | 6 | +4 | +6 |
 | 18th  | [Indomitable Might](#indomitable-might) | 6 | +4 | +6 |
-| 19th  | [Obtain Feat](../../feats/index.md) | 6 | +4 | +6 |
+| 19th  | [Obtain Feat](../../feats.md) | 6 | +4 | +6 |
 | 20th  | [Primal Champion](#primal-champion) | | +4 | +6 |
 
 ## Subclasses

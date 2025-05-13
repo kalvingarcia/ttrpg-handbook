@@ -26,28 +26,102 @@ nav:
       - Battle Smith: classes/artificer/battle-smith.md
     - Barbarian:
       - classes/barbarian/index.md
+      - Path of the Beast: classes/barbarian/path-of-the-beast.md
+      - Path of the Berserker: classes/barbarian/path-of-the-berserker.md
+      - Path of the Zealot: classes/barbarian/path-of-the-zealot.md
+      - Path of Wild Magic: classes/barbarian/path-of-wild-magic.md
     - Bard:
       - classes/bard/index.md
+      - College of Creation: classes/bard/college-of-creation.md
+      - College of Glamor: classes/bard/college-of-glamor.md
+      - College of Lore: classes/bard/college-of-lore.md
+      - College of Swords: classes/bard/college-of-swords.md
+      - College of Valor: classes/bard/college-of-valor.md
+      - College of Whispers: classes/bard/college-of-whispers.md
     - Cleric:
       - classes/cleric/index.md
+      - Community Domain: classes/cleric/community-domain.md
+      - Death Domain: classes/cleric/death-domain.md
+      - Knowledge Domain: classes/cleric/knowledge-domain.md
+      - Life Domain: classes/cleric/life-domain.md
+      - Moon Domain: classes/cleric/moon-domain.md
+      - Nature Domain: classes/cleric/nature-domain.md
+      - Peace Domain: classes/cleric/peace-domain.md
+      - Sun Domain: classes/cleric/sun-domain.md
+      - Trickery Domain: classes/cleric/trickery-domain.md
+      - War Domain: classes/cleric/war-domain.md
     - Druid:
       - classes/druid/index.md
+      - Circle of Dreams: classes/druid/circle-of-dreams.md
+      - Circle of Spores: classes/druid/circle-of-spores.md
+      - Circle of the Land: classes/druid/circle-of-the-land.md
+      - Circle of the Moon: classes/druid/circle-of-the-moon.md
+      - Circle of the Stars: classes/druid/circle-of-the-stars.md
     - Fighter:
       - classes/fighter/index.md
+      - Battle Master: classes/fighter/battle-master.md
+      - Champion: classes/fighter/champion.md
+      - Elritch Knight: classes/fighter/eldritch-knight.md
+      - Samurai: classes/fighter/samurai.md
     - Monk:
       - classes/monk/index.md
+      - Way of Mercy: classes/monk/way-of-mercy.md
+      - Way of the Dragon: classes/monk/way-of-the-dragon.md
+      - Way of the Drunken Fist: classes/monk/way-of-the-drunken-fist.md
+      - Way of the Elements: classes/monk/way-of-the-elements.md
+      - Way of the Palm: classes/monk/way-of-the-palm.md
+      - Way of the Shadows: classes/monk/way-of-the-shadows.md
     - Paladin:
       - classes/paladin/index.md
+      - Oath of Conquest: classes/paladin/oath-of-conquest.md
+      - Oath of Devotion: classes/paladin/oath-of-devotion.md
+      - Oath of Glory: classes/paladin/oath-of-glory.md
+      - Oath of Redemption: classes/paladin/oath-of-redemption.md
+      - Oath of Vengence: classes/paladin/oath-of-vengence.md
+      - Oath to the Crown: classes/paladin/oath-to-the-crown.md
+      - Oathbreaker: classes/paladin/oathbreaker.md
     - Ranger:
       - classes/ranger/index.md
+      - Beast Master: classes/ranger/beast-master.md
+      - Fey Wanderer: classes/ranger/fey-wanderer.md
+      - Blood Hunter: classes/ranger/blood-hunter.md
+      - Swarm Keeper: classes/ranger/swarm-keeper.md
     - Rogue:
       - classes/rogue/index.md
+      - Arcane Trickster: classes/rogue/arcane-trickster.md
+      - Assassin: classes/rogue/assassin.md
+      - Soulknife: classes/rogue/soulknife.md
+      - Swashbuckler: classes/rogue/swashbuckler.md
+      - Thief: classes/rogue/thief.md
     - Sorcerer:
       - classes/sorcerer/index.md
+      - Abberant Mind: classes/sorcerer/abberant-mind.md
+      - Divine Soul: classes/sorcerer/divine-soul.md
+      - Draconic Bloodline: classes/sorcerer/draconic-bloodline.md
+      - Runechild: classes/sorcerer/runechild.md
+      - Shadow Magic: classes/sorcerer/shadow-magic.md
+      - Wild Magic: classes/sorcerer/wild-magic.md
     - Warlock:
       - classes/warlock/index.md
+      - Pact of the Ancients: classes/warlock/pact-of-the-ancients.md
+      - Pact of the Archfey: classes/warlock/pact-of-the-archfey.md
+      - Pact of the Celestial: classes/warlock/pact-of-the-celestial.md
+      - Pact of the Fiend: classes/warlock/pact-of-the-fiend.md
+      - Pact of the Shadows: classes/warlock/pact-of-the-shadows.md
+      - Pact of the Undying: classes/warlock/pact-of-the-undying.md
     - Wizard:
       - classes/wizard/index.md
+      - Order of Bladesinging: classes/wizard/order-of-bladesinging.md
+      - Order of Blood Magic: classes/wizard/order-of-blood-magic.md
+      - Order of Scribes: classes/wizard/order-of-scribes.md
+      - School of Abjuration: classes/wizard/school-of-abjuration.md
+      - School of Conjuration: classes/wizard/school-of-conjuration.md
+      - School of Divination: classes/wizard/school-of-divination.md
+      - School of Enchantment: classes/wizard/school-of-enchantment.md
+      - School of Evocation: classes/wizard/school-of-evocation.md
+      - School of Illusion: classes/wizard/school-of-illusion.md
+      - School of Necromancy: classes/wizard/school-of-necromancy.md
+      - School of Transmutation: classes/wizard/school-of-transmutation.md
   - Feats: feats.md
   - Spells: spells.md
 
