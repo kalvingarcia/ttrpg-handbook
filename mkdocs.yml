@@ -123,7 +123,17 @@ nav:
       - School of Necromancy: classes/wizard/school-of-necromancy.md
       - School of Transmutation: classes/wizard/school-of-transmutation.md
   - Feats: feats.md
-  - Spells: spells.md
+  - Spells:
+      - Cantrips: spells/cantrips.md
+      - First Level: spells/1st-level.md
+      - Second Level: spells/2nd-level.md
+      - Third Level: spells/3rd-level.md
+      - Fourth Level: spells/4th-level.md
+      - Fifth Level: spells/5th-level.md
+      - Sixth Level: spells/6th-level.md
+      - Seventh Level: spells/7th-level.md
+      - Eighth Level: spells/8th-level.md
+      - Nineth Level: spells/9th-level.md
 
 theme:
   name: material
